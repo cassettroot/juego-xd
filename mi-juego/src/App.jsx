@@ -584,7 +584,7 @@ export default function App() {
                       }`}
                     >
                       <Lock className="w-4 h-4" />
-                      DESBLOQUEAR POR <FormatCurrency value={previewAvatarInfo.cost} />
+                      DESBLOQUEAR POR  <FormatCurrency value={previewAvatarInfo.cost} />
                     </button>
                   )}
                 </div>
